@@ -57,3 +57,35 @@ main {
             display: flex;
         }
   }
+
+
+@media all and (min-width: 768px) {
+    body {
+            width: 960px;
+            height: 775px;
+            background-color: #ccc; 
+        }
+        header {
+            width: 960px;
+            height: 100px;
+            line-height: 100px;
+            text-align: center;           
+        }
+        .footer {
+            width: 760px;
+            height: 150px;   
+            line-height: 150px;
+            text-align: center;   
+        }
+        aside {
+            width: 200px;
+            height: 600px;
+            line-height: 600px;
+            text-align: center; 
+        }
+        main {
+            width: 760px;
+            height: 450px; 
+            display: flex;
+        }
+  }
