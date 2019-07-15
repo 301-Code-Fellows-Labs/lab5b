@@ -1,26 +1,26 @@
 {
-  "name": "portfolio",
+  "name": "lab-05b",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NadyaIlinskiy/portfolio.git"
+    "url": "git+https://github.com/NadyaIlinskiy/lab5b.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NadyaIlinskiy/portfolio/issues"
+    "url": "https://github.com/NadyaIlinskiy/lab5b/issues"
   },
-  "homepage": "https://github.com/NadyaIlinskiy/portfolio#readme",
-  "dependencies": {
-    "dotenv": "^8.0.0",
-    "express": "^4.17.1"
-  },
-  "devDependencies": {},
-  "description": ""
+  "homepage": "https://github.com/NadyaIlinskiy/lab5b#readme"
 }
