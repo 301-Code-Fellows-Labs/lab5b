@@ -10,6 +10,7 @@
   .flex-container-column {
     display: flex;
     flex-direction: column;
+    flex: 0;
   }
 
 
