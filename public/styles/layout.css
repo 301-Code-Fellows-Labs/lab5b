@@ -3,17 +3,16 @@
     zoom: 1;
 }
 
-.box {
-    float: left;
-    box-sizing: border-box;
-}
-
-.box-r {
-    float: right;
-    box-sizing: border-box;
-}
-.clearfix {
-    overflow: auto;
+  .flex-container-row {
+    display: flex;
+    flex-direction: row;
+   
+  
+  } 
+  .flex-container-column {
+    display: flex;
+    flex-direction: column;
   }
- 
+
+
   

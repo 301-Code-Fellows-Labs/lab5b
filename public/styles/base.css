@@ -31,6 +31,7 @@ main {
             width: 960px;
             height: 775px;
             background-color: #ccc;
+           
         }
         header {
             width: 960px;
@@ -52,6 +53,8 @@ main {
         }
         main {
             width: 760px;
-            height: 450px;  
+            height: 450px; 
+            display: flex; 
+        
         }
   }
