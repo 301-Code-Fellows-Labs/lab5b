@@ -20,6 +20,7 @@ aside {
     height: 150px;
     line-height: 150px;
     text-align: center; 
+  
 }
 main {
     width: 480px;
@@ -30,8 +31,7 @@ main {
     body {
             width: 960px;
             height: 775px;
-            background-color: #ccc;
-           
+            background-color: #ccc; 
         }
         header {
             width: 960px;
@@ -54,7 +54,6 @@ main {
         main {
             width: 760px;
             height: 450px; 
-            display: flex; 
-        
+            display: flex;
         }
   }

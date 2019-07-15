@@ -6,13 +6,12 @@
   .flex-container-row {
     display: flex;
     flex-direction: row;
-   
-  
   } 
   .flex-container-column {
     display: flex;
     flex-direction: column;
   }
+
 
 
   
