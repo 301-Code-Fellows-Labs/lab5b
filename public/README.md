@@ -1,2 +1,2 @@
-# lab-01
-Lab 01: SMACSS and Responsive Web Design
+# lab-05
+Lab 05b: SMACSS and Responsive Web Design with FLEX
